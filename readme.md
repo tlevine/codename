@@ -49,6 +49,7 @@ something simple.
       -e 's/<h3 class="scenetitle">/\n### /p' \
       -e 's/<p class="scenelocation">/\n**Location**: /p' \
       -e 's/<p class="scenepersonae">/\n**Characters**: /p' \
-      Twelfth Night Scenes.html | cut -d\< -f1 \
-      > outline.md
+      Twelfth Night Scenes.html | cut -d\< -f1 |
+      sed 's/### Scene 1/## Act\n\n### Scene 1/' >
+      outline.md
 
