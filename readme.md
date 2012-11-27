@@ -1,7 +1,8 @@
 Codename
 ===
 
-**If you want to edit the script/outline on GitHub, click [here]()**.
+**If you want to edit the script/outline on GitHub, click
+[here](https://github.com/tlevine/codename/edit/master/outline.md)**.
 
 Here we adapt Twelfth Night to modern (2012, 2013) American communication
 methods like Facebook.
