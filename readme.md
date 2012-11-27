@@ -1,14 +1,20 @@
 Codename
 ===
 
-**If you want to edit the script/outline on GitHub, click
-[here](https://github.com/tlevine/codename/edit/master/outline.md)**.
-
 Here we adapt Twelfth Night to modern (2012, 2013) American communication
 methods like Facebook.
 
+**If you want to edit the script/outline on GitHub, click
+[here](https://github.com/tlevine/codename/edit/master/outline.md)**.
+
 I called our script an "outline" because we don't intend for it to be as
 precise as the word "script" might imply.
+
+**Note to Aaron**: The outline is written in
+[Markdown](http://daringfireball.net/projects/markdown/). If you have any
+trouble with it, ignore the markdown syntax and write however you want;
+I'll clean up the formatting. Also, if you are more comfortable with a
+different markup language, I'm fine with switching.
 
 ## Characters
 The edition from Project Gutenberg tells us of these characters.
