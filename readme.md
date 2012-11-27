@@ -6,10 +6,6 @@ Codename
 Here we adapt Twelfth Night to modern (2012, 2013) American communication
 methods like Facebook.
 
-The original script (`gutenberg.txt`) comes from project gutenberg. The page on
-Project Gutenberg is [here](http://www.gutenberg.org/ebooks/1526), and the file
-we downloaded is [here](http://www.gutenberg.org/cache/epub/1526/pg1526.txt).
-
 I called our script an "outline" because we don't intend for it to be as
 precise as the word "script" might imply.
 
@@ -53,3 +49,11 @@ something simple.
       sed 's/### Scene 1/## Act\n\n### Scene 1/' >
       outline.md
 
+## References
+
+The original script (`gutenberg.txt`) comes from project gutenberg. The page on
+Project Gutenberg is [here](http://www.gutenberg.org/ebooks/1526), and the file
+I downloaded is [here](http://www.gutenberg.org/cache/epub/1526/pg1526.txt).
+
+I took a character list from 
+[playshakespeare](http://www.playshakespeare.com/twelfth-night/scenes).
